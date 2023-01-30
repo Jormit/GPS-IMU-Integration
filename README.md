@@ -3,7 +3,7 @@ An exploration into various GPS/IMU integration techniques conducted as part of 
 
 Included Algorithms:
 - IMU Only Positioning
-- IMU Only Poesitioning with Periodic GPS Reset
+- IMU Only Positioning with Periodic GPS Reset
 - IMU/GPS Extended Kalman Filter
 - IMU/GPS Unscented Kalman Filter
 - IMU/GPS Extended Kalman Filter with Bias Estimation
