@@ -21,3 +21,6 @@ To characterise an IMU sensor open "allan.m" and click run. By default this will
 and Rate Random Walk parameters and compares them against the values in the datasheet. It also
 will simulate some IMU measurements and compare the time domain and allan plots against the real data.
 Note that by default the program assumes the units are in degrees to match with the datasheet.
+
+## Example Outputs
+![image](https://user-images.githubusercontent.com/15094591/234550081-f1e131cd-a3a3-4e89-a4b5-2efc9e108af6.png)
