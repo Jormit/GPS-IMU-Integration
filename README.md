@@ -23,4 +23,5 @@ will simulate some IMU measurements and compare the time domain and allan plots 
 Note that by default the program assumes the units are in degrees to match with the datasheet.
 
 ## Example Outputs
-![image](https://user-images.githubusercontent.com/15094591/234550081-f1e131cd-a3a3-4e89-a4b5-2efc9e108af6.png)
+
+<img src="https://user-images.githubusercontent.com/15094591/234550081-f1e131cd-a3a3-4e89-a4b5-2efc9e108af6.png" width="600">
