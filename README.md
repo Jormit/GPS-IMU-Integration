@@ -24,4 +24,4 @@ Note that by default the program assumes the units are in degrees to match with 
 
 ## Example Outputs
 
-<img src="https://user-images.githubusercontent.com/15094591/234550081-f1e131cd-a3a3-4e89-a4b5-2efc9e108af6.png" width="600">
+<img src="https://user-images.githubusercontent.com/15094591/236585556-1477a875-5ae6-4bf7-bf48-7f3547e1fe91.png" width="700">
